@@ -17,6 +17,7 @@ drag.prototype.init = function(){
 		document.onmouseup = function(ev){
 			This.up();	
 		};
+		return false;
 	};
 };
 
