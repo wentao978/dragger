@@ -43,25 +43,3 @@ drag.prototype.up = function(){
 	document.onmousemove = null;
 	document.onmouseup = null;	
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
